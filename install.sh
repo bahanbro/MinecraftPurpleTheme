@@ -47,7 +47,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/krisbotz1/MinecraftPurpleTheme/main/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/lexxystore/MinecraftPurpleTheme/main/repair.sh)
 }
 
 restoreBackUp(){
