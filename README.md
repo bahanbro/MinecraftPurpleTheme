@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/Anggi/MinecraftPurpleTheme/main/repair.sh)
+bash <(curl https://raw.githubusercontent.com/Angelillo15/MinecraftPurpleTheme/main/repair.sh)
 ```
 
 Screenshots:
